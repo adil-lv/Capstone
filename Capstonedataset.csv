@@ -1,0 +1,29 @@
+﻿| Month      | Region      | Data Usage Monthly (TB)    | User Growth Rate (%) | Network Expansion Plan          |
+|------------|-------------|-----------------------------|-----------------------|----------------------------------|
+| 2020-01    | North America | 150                         | 5                     | Add new data centers             |
+| 2020-01    | Europe        | 100                         | 8                     | Upgrade infrastructure          |
+| 2020-01    | Asia-Pacific  | 80                          | 10                    | Deploy new servers               |
+| 2020-02    | North America | 180                         | 6                     | Expand fiber optics              |
+| 2020-02    | Europe        | 120                         | 7                     | Add cloud services               |
+| 2020-02    | Asia-Pacific  | 100                         | 12                    | Upgrade network nodes            |
+| 2020-03    | North America | 200                         | 5                     | Build 5G infrastructure         |
+| 2020-03    | Europe        | 140                         | 9                     | Expand data capacity            |
+| 2020-03    | Asia-Pacific  | 120                         | 8                     | Launch IoT services              |
+| 2020-04    | North America | 220                         | 4                     | Enhance cybersecurity           |
+| 2020-04    | Europe        | 160                         | 10                    | Implement edge computing        |
+| 2020-04    | Asia-Pacific  | 140                         | 7                     | Upgrade network backbone        |
+| 2020-05    | North America | 240                         | 6                     | Introduce 6G technology         |
+| 2020-05    | Europe        | 180                         | 8                     | Connect smart cities            |
+| 2020-05    | Asia-Pacific  | 160                         | 9                     | Optimize network performance    |
+| 2020-06    | North America | 260                         | 5                     | Enhance edge computing          |
+| 2020-06    | Europe        | 200                         | 7                     | Expand cloud offerings          |
+| 2020-06    | Asia-Pacific  | 180                         | 6                     | Roll out 5G to rural areas      |
+| 2020-07    | North America | 280                         | 4                     | Implement network automation   |
+| 2020-07    | Europe        | 220                         | 8                     | Integrate AI for optimization   |
+| 2020-07    | Asia-Pacific  | 200                         | 10                    | Launch augmented reality services|
+| 2020-08    | North America | 300                         | 5                     | Establish partnerships for global expansion |
+| 2020-08    | Europe        | 240                         | 7                     | Upgrade data center infrastructure |
+| 2020-08    | Asia-Pacific  | 220                         | 6                     | Implement network slicing       |
+| 2020-09    | North America | 320                         | 4                     | Expand coverage in underserved areas |
+| 2020-09    | Europe        | 260                         | 9                     | Introduce quantum-safe encryption |
+| 2020-09    | Asia-Pacific  | 240                         | 8                     | Upgrade to 6G      
